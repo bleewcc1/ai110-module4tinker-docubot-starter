@@ -6,6 +6,7 @@ __pycache__/
 
 # Virtual environments
 venv/
+.venv/
 .env/
 .env.bak/
 
@@ -15,6 +16,7 @@ venv/
 
 # macOS artifacts
 .DS_Store
+._*
 
 # Cache directories
 .cache/
